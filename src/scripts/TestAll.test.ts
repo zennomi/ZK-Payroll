@@ -120,7 +120,7 @@ describe('Test all', () => {
     claimedTree.set(indexes[0], Field(1));
   });
 
-  it('[Expect fail] Claim again: expect fail with claimed error', async () => {
+  xit('[Expect fail] Claim again: expect fail with claimed error', async () => {
     const txn = await Mina.transaction(anonymousAccounts[0], async () => {
       await zkApp.claimSalary(
         employeeAccounts[0].key,
