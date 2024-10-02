@@ -1,4 +1,6 @@
-# Mina zkApp: Private Salary Transfer
+# Mina zkApp: ZK Payroll
+
+[Document PDF 📄](./document.pdf)
 
 This template uses TypeScript.
 
@@ -24,4 +26,3 @@ npm run coverage
 ## License
 
 [Apache-2.0](LICENSE)
-# Private-Salary
