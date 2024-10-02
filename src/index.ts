@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { PrivateSalary } from './contracts/PrivateSalary.js';
 
-export { Add };
+export { PrivateSalary };
